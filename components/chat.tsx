@@ -78,7 +78,7 @@ export function Chat({ modelId = DEFAULT_MODEL }: { modelId: string }) {
           <div className="w-full max-w-2xl text-center space-y-8 md:space-y-12">
             <h1 className="text-3xl md:text-6xl font-light tracking-tight text-foreground animate-slide-up">
               <span className="font-mono font-semibold tracking-tight bg-foreground text-background px-4 py-3 rounded-2xl shadow-border-medium">
-                AI GATEWAY
+                CBS AI GATEWAY
               </span>
             </h1>
             <div className="w-full animate-slide-up" style={{ animationDelay: '100ms' }}>
